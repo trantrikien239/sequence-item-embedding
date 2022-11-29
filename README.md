@@ -5,4 +5,5 @@ Entrypoints:
 
 Modules: `rnn_dataset.py`, `rnn_model.py`, `rnn_trainer.py`, `utils.py`
 
-If you want to re-create the results, please create a new environment with `requirements.txt`.
+If you want to re-create the results, please create a new environment with `requirements.txt` and put the data files into the `./data/instacart-market-basket-analysis/` folder. The Instacart dataset can be found here: https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
+
